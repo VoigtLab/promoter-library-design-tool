@@ -38,9 +38,14 @@ Input parameters are as follows:
                  
 %   in Column 9: the amount of "wobble" for every site in column 7; i.e.: input '3' will place single operator in all sites +/- 3bp with respect to
                  %each location in column 7. +/-3 covers both sides of the DNA strand (1 helical turn ~10bp), greater chance of functional "looping"
+                 
 %   in Column 10: the sequence of the fw PCR primer recognition sequence
+
 %   in Column 11: the sequence of the rev PCR primer recognition sequence
+
 %   in Column 12: the desired location of the TSS relative to the end of the background sequence (e.g. -30 places +1 site -30 from the end of the backgound seq)
+
 %   in Column 13: 1 or 0 input whether to integrate these operators combinatorially
+
 %   in Column 14: 1 or 0 input whether to add "looping" feature to the  promoter saturation section
 

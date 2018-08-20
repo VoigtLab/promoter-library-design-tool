@@ -1,7 +1,8 @@
 # promoter-library-design-tool
 
 Voigt lab Promoter Library Design Tool
-Used in Moser, et al. (2018)
+
+Used in Moser, et al. (201x) (unpublished as of 8/18)
 
 Code is Matlab "SenseProm_V6".
 

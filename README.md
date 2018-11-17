@@ -2,7 +2,7 @@
 
 Voigt lab Promoter Library Design Tool
 
-Used in Moser, et al. (201x) (unpublished as of 8/18)
+Used in Moser, et al. (2018) MSB
 
 Code is Matlab "SenseProm_V6".
 
